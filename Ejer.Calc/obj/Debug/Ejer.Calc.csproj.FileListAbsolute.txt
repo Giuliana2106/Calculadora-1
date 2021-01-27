@@ -1,0 +1,9 @@
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-1\Ejer.Calc\bin\Debug\Ejer.Calc.exe
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-1\Ejer.Calc\bin\Debug\Ejer.Calc.pdb
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-1\Ejer.Calc\obj\Debug\Ejer.Calc.csprojAssemblyReference.cache
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-1\Ejer.Calc\obj\Debug\Ejer.Calc.Form1.resources
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-1\Ejer.Calc\obj\Debug\Ejer.Calc.Properties.Resources.resources
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-1\Ejer.Calc\obj\Debug\Ejer.Calc.csproj.GenerateResource.cache
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-1\Ejer.Calc\obj\Debug\Ejer.Calc.csproj.CoreCompileInputs.cache
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-1\Ejer.Calc\obj\Debug\Ejer.Calc.exe
+C:\Users\ginic\source\repos\Giuliana2106\Calculadora-1\Ejer.Calc\obj\Debug\Ejer.Calc.pdb
