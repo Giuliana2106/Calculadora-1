@@ -54,12 +54,12 @@ namespace Ejer.Calc
 
         private void txtv2_MouseUp(object sender, MouseEventArgs e)
         {
-
+            MessageBox.Show("Ingrese el segundo valor aquí");
         }
 
         private void lblOperaciones_MouseDown(object sender, MouseEventArgs e)
         {
-
+            MessageBox.Show("Seleccione la operación deseada aquí");   
         }
     }
 }
